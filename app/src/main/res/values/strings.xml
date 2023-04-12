@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="main_label">Weather forecast in any city</string>
+
+    <string name="hint_label">Enter city name</string>
+    <string name="get_forecast">Get forecast</string>
+
+    <string name="empty_city">City name was not entered</string>
+    <string name="load_message">Loading data...</string>
+    <string name="error_message">Something went wrong...</string>
+</resources>
